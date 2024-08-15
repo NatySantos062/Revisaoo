@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(185, 171, 212);
+}
+#cartoon{
+    width: auto;
+    height: 450px;
+    justify-content: center;
+}
+header ul{
+    display: flex;
+    list-style: none;
+}
+
+#h1{
+    text-align: center;
+}
+
+#cartoon{
+  max-width: 700px;
+  height: min-content;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.img-container {
+        text-align: center;
+}
+    
